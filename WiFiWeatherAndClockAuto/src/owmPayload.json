@@ -1,0 +1,14 @@
+{
+ "coord":{"lon":8.31,"lat":47.47},
+ "weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01n"}],
+ "base":"stations",
+ "main":{"temp":4.81,"pressure":1035,"humidity":48,"temp_min":3,"temp_max":7},
+ "visibility":10000,
+ "wind":{"speed":1,"deg":40},
+ "clouds":{"all":0},
+ "dt":1550076600,
+ "sys":{"type":1,"id":6941,"message":0.004,"country":"CH","sunrise":1550039697,"sunset":1550076457},
+ "id":2661646,
+ "name":"Baden",
+ "cod":200
+}
