@@ -8,4 +8,5 @@ Date and Time are also retrieved from a time server.
 ## Displayed Data
 ![Data](displayed-data.jpg)
 
+## Code
 The folder WiFiWeatherAndClockAuto contains the full PlatformIO project.
